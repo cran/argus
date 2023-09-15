@@ -40,7 +40,7 @@
 }
 
 \references{%
- C. Baumgarten, W. Hörmann: Generating ARGUS random variates
+Christoph Baumgarten: Random Variate Generation by Fast Numerical Inversion in the Varying Parameter Case. 
 }
 
 \examples{

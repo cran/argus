@@ -68,7 +68,7 @@ are recycled to the length of the result. Only the first elements of the logical
 }
 
 \references{%
-  C. Baumgarten, W. Hörmann: Generating ARGUS random variates
+  Christoph Baumgarten: Random Variate Generation by Fast Numerical Inversion in the Varying Parameter Case. 
 }
 
 %% \seealso{}
